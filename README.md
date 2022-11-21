@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Mastodon: @clairegiordano@hachyderm.io](https://hachyderm.io/@clairegiordano) | [Twitter: @clairegiordano](https://twitter.com/clairegiordano) | [LinkedIn: linkedin.com/in/claireg](https://www.linkedin.com/in/claireg/) | [Citus Database Blog](https://www.citusdata.com/blog/authors/claire-giordano/)
+Mastodon: [@clairegiordano@hachyderm.io](https://hachyderm.io/@clairegiordano) | Twitter: [@clairegiordano](https://twitter.com/clairegiordano) | LinkedIn: [linkedin.com/in/claireg](https://www.linkedin.com/in/claireg/) | Citus Database Blog: [my author page](https://www.citusdata.com/blog/authors/claire-giordano/)
 <!--
 **clairegiordano/clairegiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
