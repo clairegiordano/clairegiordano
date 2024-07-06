@@ -1,7 +1,8 @@
 ### Here are some places you can find me online: 👋
 
 - Mastodon: [@clairegiordano@hachyderm.io](https://hachyderm.io/@clairegiordano)
-- Twitter: [@clairegiordano](https://twitter.com/clairegiordano)
+- X/Twitter: [@clairegiordano](https://twitter.com/clairegiordano)
+- Threads: [@clairegiordano](https://www.threads.net/@clairegiordano)
 - LinkedIn: [linkedin.com/in/claireg](https://www.linkedin.com/in/claireg/)
 - Citus Database Blog: [my author page](https://www.citusdata.com/blog/authors/claire-giordano/)
 <!--
