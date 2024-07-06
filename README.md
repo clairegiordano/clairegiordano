@@ -4,7 +4,8 @@
 - X/Twitter: [@clairegiordano](https://twitter.com/clairegiordano)
 - Threads: [@clairegiordano](https://www.threads.net/@clairegiordano)
 - LinkedIn: [linkedin.com/in/claireg](https://www.linkedin.com/in/claireg/)
-- Citus Database Blog: [my author page](https://www.citusdata.com/blog/authors/claire-giordano/)
+- Podcast: [Talking Postgres with Claire Giordano](https://talkingpostgres.com), formerly called Path To Citus Con
+- Blogging on Citus Open Source Blog: [my author page](https://www.citusdata.com/blog/authors/claire-giordano/)
 <!--
 **clairegiordano/clairegiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
