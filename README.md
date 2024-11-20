@@ -1,11 +1,14 @@
-### Here are some places you can find me online: 👋
+### Work: Head of Postgres open source community initiatives at Microsoft
+- Formerly Citus Data, A9/Amazon, Sun Microsystems, Brown University CS
+
+### Here are some social media places you can find me online: 👋
 
 - Bluesky: [@clairegiordano.bsky.social](https://bsky.app/profile/clairegiordano.bsky.social)
 - Mastodon: [@clairegiordano@hachyderm.io](https://hachyderm.io/@clairegiordano)
+- LinkedIn: [linkedin.com/in/claireg](https://www.linkedin.com/in/claireg/)
+- Monthly Podcast: [Talking Postgres with Claire Giordano](https://talkingpostgres.com), formerly called Path To Citus Con
 - X/Twitter: [@clairegiordano](https://twitter.com/clairegiordano)
 - Threads: [@clairegiordano](https://www.threads.net/@clairegiordano)
-- LinkedIn: [linkedin.com/in/claireg](https://www.linkedin.com/in/claireg/)
-- Podcast: [Talking Postgres with Claire Giordano](https://talkingpostgres.com), formerly called Path To Citus Con
 - Blogging on Citus Open Source Blog: [my author page](https://www.citusdata.com/blog/authors/claire-giordano/)
 <!--
 **clairegiordano/clairegiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
