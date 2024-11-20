@@ -1,5 +1,6 @@
 ### Here are some places you can find me online: 👋
 
+- Bluesky: [@clairegiordano.bsky.social](https://bsky.app/profile/clairegiordano.bsky.social)
 - Mastodon: [@clairegiordano@hachyderm.io](https://hachyderm.io/@clairegiordano)
 - X/Twitter: [@clairegiordano](https://twitter.com/clairegiordano)
 - Threads: [@clairegiordano](https://www.threads.net/@clairegiordano)
